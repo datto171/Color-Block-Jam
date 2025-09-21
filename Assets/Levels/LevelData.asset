@@ -12,20 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fa0607481cc65c4ba0d781620a34816, type: 3}
   m_Name: LevelData
   m_EditorClassIdentifier: 
-  levelId: 1
+  levelId: 
   layers:
   - z: 0
-    width: 10
-    height: 10
+    width: 5
+    height: 5
     offsetX: 0
     offsetY: 0
-  - z: 1
-    width: 9
-    height: 9
+  - z: 0
+    width: 4
+    height: 4
     offsetX: 0.5
     offsetY: 0.5
   - z: 2
-    width: 10
-    height: 10
-    offsetX: 0
-    offsetY: 0
+    width: 3
+    height: 3
+    offsetX: 1
+    offsetY: 1
